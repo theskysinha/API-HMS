@@ -30,6 +30,7 @@ DEBUG = False
 ALLOWED_HOSTS = [
     'api-hms-937p.onrender.com',
     'localhost',
+    'api-hms-1.onrender.com'
 ]
 
 
